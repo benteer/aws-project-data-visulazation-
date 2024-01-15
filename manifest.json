@@ -1,0 +1,17 @@
+{
+   "fileLocations": [
+       {
+           "URIs": [
+               "s3://mypoject/Amazon-Bestseller-Dataset.csv"
+           ]
+       }
+   ],
+   "globalUploadSettings": {
+       "format": "CSV",
+       "delimiter": ",",
+       "textqualifier": "\"",
+       "containsHeader": "true"
+   }
+}
+
+
